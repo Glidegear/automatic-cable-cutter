@@ -5,6 +5,8 @@ releasing the source of automatic-cable-cutter. This resources are the results o
 * Unfortunately i did not spend any time in tidy up the sources. 
 * Unfortunately some of the parts are not documented, because i used some stuff laying around in my workshop. These parts should be replaced by standard parts. 
 
-###Bilder
-https://www.flickr.com/photos/teil3ch/albums/72157676039368655
+###Images
+https://www.flickr.com/photos/teil3ch/albums/72157676039368655 
 
+###Video
+https://www.youtube.com/watch?v=P63oYIn-Zj4
